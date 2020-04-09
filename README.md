@@ -1,4 +1,4 @@
-# escapeRoom
+# EscapeRoom
 python function for suggested answers of android game Escape Room
 
 EscapeRoom solver
